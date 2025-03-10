@@ -1,0 +1,30 @@
+$main: #0044d6;
+
+.About {
+  max-width: 100%;
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+.my-resume {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.describe-section {
+  max-width: 500px;
+  width: 100%;
+}
+.icon-describe {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+h6 {
+  color: $main;
+}

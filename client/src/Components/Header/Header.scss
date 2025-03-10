@@ -1,0 +1,29 @@
+.Header {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .circle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: orange;
+  }
+.ava-block{
+    display: flex;
+    align-items: center;
+    width: 140px;
+    justify-content: space-between;
+}
+.text-booking{
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    background-color: white;
+    width: 75px;
+}
